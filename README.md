@@ -1,2 +1,3 @@
 # Exercise-Repo-
-Repo made for exercises
+
+Repository for exercises 
