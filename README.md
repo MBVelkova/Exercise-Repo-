@@ -1,8 +1,8 @@
 # Exercise-Repo-
 
-<<<<<<< HEAD
-=======
-This repo is meant for training .
 
->>>>>>> branchName
+
+This repo is meant for training on lecture Git, GitHub - Exercises-SoftUni.
+
+
 
